@@ -1,0 +1,85 @@
+{
+  "person": [
+  { 
+    "id": 1, 
+    "name": "Aretha Franklin", 
+    "image": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/e/f/a/9/8593-5605-45f1-b502-d0dacbfba6df",
+    "genre": "Queen of queens", 
+    "email": "Aretha.Franklin@singer.com", 
+    "telephone": "Tel: +1 000 000", 
+    "comments": "But whatever she sang, she claimed it as her own. And as long as you live, you’ll never hear anything like Aretha Franklin. That’s why her voice still goes right on changing the world. — R.S."
+  },
+  { 
+    "id": 2, 
+    "name": "Whitney Houston", 
+    "image": "https://i.pinimg.com/474x/2b/a5/d1/2ba5d162780911dde09e7ede0f132d02.jpg",
+    "genre": "The standard-bearer for R&B vocals", 
+    "email": "Whitney.Houston@singer.com", 
+    "telephone": "Tel: +2 000 000", 
+    "comments": "Houston’s self-titled 1985 debut came out a bit more than six months before her 22nd birthday, and it established her as one of pop’s most potent vocalists. — M.J."
+  },
+  { 
+    "id": 3, 
+    "name": "Sam Cooke", 
+    "image": "https://500songs.com/wp-content/uploads/2021/05/Sam-Cooke-300x300.jpg",
+    "genre": "Soul and R&B", 
+    "email": "Name.surname@singer.com", 
+    "telephone": "Tel: +3 000 000", 
+    "comments": "He was already a gospel superstar with the Soul Stirrers when he went solo in 1957 and immediately began defining the idea of “soul music” — J.G."
+  },
+  { 
+    "id": 4, 
+    "name": "Billie Holiday", 
+    "image": "https://www.marinarts.org/wp-content/uploads/sites/www.marinarts.org/images/2019/01/event-featured-Stella-Heath-1548104839-e1548112389949-300x300.jpeg",
+    "genre": "Other jazz-vocal legend", 
+    "email": "Billie.Holiday@singer.com", 
+    "telephone": "Tel: +4 000 000", 
+    "comments": "“Billie Holiday makes you hear the content and intent of every word she sings — even at the expense of her pitch or tone,” Joni Mitchell once said. “Billie is the one that touches me deepest.” — H.S."
+  },
+  { 
+    "id": 5, 
+    "name": "Mariah Carey",
+    "image": "https://imusic.b-cdn.net/images/item/original/725/5099748136725.jpg?mariah-carey-1995-daydream-cd&class=scaledg", 
+    "genre": "Old-school soul and R&B with modern", 
+    "email": "Mariah.Carey@singer.com", 
+    "telephone": "Tel: +5 000 000", 
+    "comments": "Carey birthed generations of imitators in her wake. But those she influenced still can’t beat the architect of modern pop’s sound. — B.S."
+  },
+  { 
+    "id": 6, 
+    "name": "Ray Charles", 
+    "image": "https://s3.amazonaws.com/holdenluntz.com/wp-content/uploads/20200916145320/Ray-Charles-300x300.jpg",
+    "genre": "Titan of R&B, pop, jazz, and country", 
+    "email": "Mariah.Carey@singer.com", 
+    "telephone": "Tel: +6 000 000", 
+    "comments": "And he turned one of the most anodyne of national hymns, “America the Beautiful,” into a soul-wrenching epic. The man could make anything soulful. — M.M."
+  },
+  { 
+    "id": 7, 
+    "name": "Stevie Wonder", 
+    "image": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/1/7/e/c/deb5-8f7c-4b0c-9b20-bedad295b853",
+    "genre": "The Best", 
+    "email": "Stevie.Wonder@singer.com", 
+    "telephone": "Tel: +7 000 000", 
+    "comments": "“The thing about Stevie Wonder,” he said, “was that he brought these vocal mechanics into the squall that other motherfuckers just couldn’t do.” — H.S."
+  },
+  { 
+    "id": 8, 
+    "name": "Otis Redding", 
+    "image": "https://www.americanbluesscene.com/wp-content/uploads/2011/12/otis-redding-300x300.jpg",
+    "genre": "Soul", 
+    "email": "Otis.Redding@singer.com", 
+    "telephone": "Tel: +8 000 000", 
+    "comments": "Onstage — start with his commanding performance at 1967’s Monterey Pop festival — Otis Redding was so boundless and revved up that he could literally make a stage shake. - D.B."
+  },
+  { 
+    "id": 9, 
+    "name": "Al Green", 
+    "image": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/6/2/b/4/0087-d8a1-4ac8-ad9f-99e05ea93482",
+    "genre": "Ultimate soul man", 
+    "email": "Al.Green@singer.com", 
+    "telephone": "Tel: +9 000 000", 
+    "comments": "There’s something feline about Al Green’s voice — a sinuous flexibility that flares up in places the listener isn’t expecting, which is always welcome. Few singers create the illusion of being carried away by the very song they’re singing the way he can."
+  }
+  ]
+}
